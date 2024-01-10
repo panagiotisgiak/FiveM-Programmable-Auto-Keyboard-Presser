@@ -17,3 +17,37 @@ Python Script to simulate keyboard key presses using pynput but you can set a se
    ### Prompt Syntax:
    > The input prompt must be have this format: {button_name},{delay_time_in_sec},{button_name},{delay_time_in_sec}
 3. After prompt you have to enter how many times you want the prompt to be executed. (if you enter -1 it will execute the prompt until you close it.)
+
+
+# All special characters names
+- backspace
+- tab
+- enter
+- shift
+- ctrl
+- alt
+- caps_lock
+- esc
+- space
+- left
+- up
+- right
+- down
+- insert
+- delete
+- home
+- end
+- page_up
+- page_down
+- f1
+- f2
+- f3
+- f4
+- f5
+- f6
+- f7
+- f8
+- f9
+- f10
+- f11
+- f12
